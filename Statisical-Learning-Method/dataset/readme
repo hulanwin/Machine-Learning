@@ -1,0 +1,3 @@
+mnist dataset
+    - train.csv (60000)
+    - test.csv  (10000)
